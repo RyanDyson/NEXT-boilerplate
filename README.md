@@ -23,6 +23,9 @@ This is more of a batteries included approach to NEXT. If you wish to go over an
 ### Database 
 - [Neon PostgreSQL](https://neon.com/)
 
+## File Structure
+
+
 ## Learn More
 
 Most of the boilerplate is from T3-Start. To learn more about the [T3 Start](https://create.t3.gg/), take a look at the following resources:
